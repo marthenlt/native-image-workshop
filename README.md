@@ -1,5 +1,5 @@
 # native-image-workshop
-Native Image workshop material for both Windows and Linux OSes.
+GraalVM Native Image workshop material for both Windows and Linux OSes.
 
 Detail installation & its prerequisite of GraalVM Native Image can be found https://docs.oracle.com/en/graalvm/enterprise/19/guide/reference/native-image/native-image.html#prerequisites 
 
